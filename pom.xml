@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.rberdkan</groupId>
-    <artifactId>ledger_api</artifactId>
+    <artifactId>ledger-api</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
