@@ -4,4 +4,4 @@
 
 - built: project skeleton + first passing test
 
-- Confused by: (be honest, write something)
+- Confused by: I don't fully understand what I am doing. 
